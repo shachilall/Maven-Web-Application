@@ -1,2 +1,2 @@
 # Maven-Web-Application
-This is a maven web application using JSP , Servlets and JDBC. 
+This is an introduction to maven web application using JSP , Servlets and JDBC. 
